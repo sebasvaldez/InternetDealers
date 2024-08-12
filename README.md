@@ -7,7 +7,7 @@ Repositorio dedicado a la configuracion y mantenimiendo de los scripts referidos
 
 - Es necesario instalar UBUNTU 20.04
 
- 1) na vez hayas accedido con tus credenciales a la VPS ingresa    las siguientes líneas:
+ 1) Una vez hayas accedido con tus credenciales a la VPS ingresa    las siguientes líneas:
 -  sudo apt-get update
 - sudo apt-get upgrade
 Este proceso actualiza la distribución de Linux y puede llevar varios minutos.
