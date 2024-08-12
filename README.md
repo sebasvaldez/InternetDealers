@@ -10,7 +10,7 @@ Repositorio dedicado a la configuracion y mantenimiendo de los scripts referidos
  1) Una vez hayas accedido con tus credenciales a la VPS ingresa    las siguientes líneas:
 -  sudo apt-get update
 - sudo apt-get upgrade
-Este proceso actualiza la distribución de Linux y puede llevar varios minutos.
+- Este proceso actualiza la distribución de Linux y puede llevar varios minutos.
 
 2) Instalar el MULTI SCRIPT (Elegir la version 8.6 de VPS-MX, es la unica probada de momento)
 
