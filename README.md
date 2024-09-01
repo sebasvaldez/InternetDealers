@@ -29,6 +29,7 @@ sudo ufw allow 1:65535/udp
 
 4) Script instalador de websocket y dropbear:
 Ejecutar el script y asignar puerto 80 para python y 444 para dropbear (o cualquier otro que no sea los conocidos para evitar conflicto)
+El codigo de respuesta http debe ser 101
 ```bash
 sudo wget https://raw.githubusercontent.com/rudi9999/Script/master/Proxy.sh; chmod +x Proxy.sh* && ./Proxy.sh
 ```
